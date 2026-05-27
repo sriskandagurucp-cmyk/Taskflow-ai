@@ -1,0 +1,6 @@
+{
+  "name": "Taskflow-ai",
+  "description": "Premium AI-powered task management platform with analytics, automation, and intelligent suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
